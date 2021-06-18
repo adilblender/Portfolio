@@ -3,8 +3,10 @@
 
 ### My Blender Work
 ```markdown
-link to bleennnder work ![door](blenderWork/blenderImages/door.png)
+link to bleennnder work 
+![door](blenderWork/blenderImages/door.png)
 ![crow](blob/main/Crow.png)
+<img src="Crow.png">
 ```
 
 
