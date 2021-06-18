@@ -3,7 +3,7 @@
 
 ### My Blender Work
 ```markdown
-link to bleennnder work ![door](/adilblender/Portfolio/blob/main/blenderWork/blenderImages/door.png)
+link to bleennnder work ![door](blenderWork/blenderImages/door.png)
 ```
 
 
