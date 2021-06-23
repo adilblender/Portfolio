@@ -15,6 +15,15 @@
 
 
 ```
+
+### Sketching
+<img src="Drawing/LightHouse.png" width="150" height="150">
+<img src="Drawing/Room.png" width="150" height="150">
+<img src="Drawing/Ship.png" width="150" height="150">
+<img src="Drawing/Table.png" width="150" height="150">
+
+
+
 ### My Unity Work
 
 
