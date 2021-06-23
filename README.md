@@ -17,10 +17,10 @@
 ```
 
 ### Sketching
-<img src="Drawing/LightHouse.png" width="150" height="150">
-<img src="Drawing/Room.png" width="150" height="150">
-<img src="Drawing/Ship.png" width="150" height="150">
-<img src="Drawing/Table.png" width="150" height="150">
+<img src="Drawing/LightHouse.jpeg" width="150" height="150">
+<img src="Drawing/Room.jpeg" width="150" height="150">
+<img src="Drawing/Ship.jpeg" width="150" height="150">
+<img src="Drawing/Table.jpeg" width="150" height="150">
 
 
 
