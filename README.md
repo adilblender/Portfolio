@@ -1,14 +1,15 @@
 ## Welcome to Adil khan Portfolio
 
 
-### My Blender Work
+### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/tree/main/blenderWork/blenderImages)
 
 
 <img src="Crow.png" width="150" height="125">
 <img src="blenderWork/blenderImages/door.png" width="150" height="125">
 <img src="blenderWork/blenderImages/vessels.png" width="150" height="125">
 <img src="blenderWork/blenderImages/Building002.png" width="150" height="125">
-<img src="blenderWork/blenderImages/brush_border.png" width="150" height="125">
+
+
 
 
 
@@ -17,7 +18,7 @@
 
 ```
 
-### Sketching
+### Sketching [More Works Inside!]
 <img src="Drawing/LightHouse.jpeg" width="150" height="150">
 <img src="Drawing/Room.jpeg" width="150" height="150">
 <img src="Drawing/Ship.jpeg" width="150" height="150">
