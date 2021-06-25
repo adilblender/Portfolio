@@ -4,10 +4,11 @@
 ### My Blender Work
 
 
-<img src="Crow.png" width="150" height="150">
-<img src="blenderWork/blenderImages/door.png" width="150" height="150">
-<img src="blenderWork/blenderImages/vessels.png" width="150" height="150">
-<img src="blenderWork/blenderImages/Building002.png" width="150" height="150">
+<img src="Crow.png" width="150" height="125">
+<img src="blenderWork/blenderImages/door.png" width="150" height="125">
+<img src="blenderWork/blenderImages/vessels.png" width="150" height="125">
+<img src="blenderWork/blenderImages/Building002.png" width="150" height="125">
+<img src="blenderWork/blenderImages/brush_border.png" width="150" height="125">
 
 
 
