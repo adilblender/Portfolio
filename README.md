@@ -13,49 +13,7 @@
 
 
 
-```markdown
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-public class moveWithArrowKeys : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKey("up"))
-        {
-          
-           transform.position = transform.position + new Vector3(-1f, 0f, -1f);
-        }
-
-        if (Input.GetKey("down"))
-        {
-            
-            transform.position = transform.position + new Vector3(1f, 0f, 1f);
-        }
-        if (Input.GetKey("right"))
-        {
-            
-            transform.position = transform.position + new Vector3(-1f, 0f, 1f);
-        }
-        if (Input.GetKey("left"))
-        {
-            
-            transform.position = transform.position + new Vector3(1f, 0f, -1f);
-        }
-
-    }
-}
-
-
-```
 
 ### Sketching [More Works Inside!](https://github.com/adilblender/Portfolio/blob/main/Drawing)
 <img src="Drawing/LightHouse.jpeg" width="150" height="150">
