@@ -14,6 +14,45 @@
 
 
 ```markdown
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class moveWithArrowKeys : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKey("up"))
+        {
+          
+           transform.position = transform.position + new Vector3(-1f, 0f, -1f);
+        }
+
+        if (Input.GetKey("down"))
+        {
+            
+            transform.position = transform.position + new Vector3(1f, 0f, 1f);
+        }
+        if (Input.GetKey("right"))
+        {
+            
+            transform.position = transform.position + new Vector3(-1f, 0f, 1f);
+        }
+        if (Input.GetKey("left"))
+        {
+            
+            transform.position = transform.position + new Vector3(1f, 0f, -1f);
+        }
+
+    }
+}
 
 
 ```
@@ -27,8 +66,50 @@
 
 
 ### My Unity Work
+ ## Unity Script for Simple Camera Movement on X Z axis for a 2.5D game
+```markdown
 
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class moveWithArrow : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        if (Input.GetKey("up"))
+        {
+          
+           transform.position = transform.position + new Vector3(-1f, 0f, -1f);
+        }
+
+        if (Input.GetKey("down"))
+        {
+            
+            transform.position = transform.position + new Vector3(1f, 0f, 1f);
+        }
+        if (Input.GetKey("right"))
+        {
+            
+            transform.position = transform.position + new Vector3(-1f, 0f, 1f);
+        }
+        if (Input.GetKey("left"))
+        {
+            
+            transform.position = transform.position + new Vector3(1f, 0f, -1f);
+        }
+
+    }
+}
+
+```
 
 
 
