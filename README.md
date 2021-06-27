@@ -1,7 +1,7 @@
 ## Welcome to Adil khan Portfolio
 
 
-### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/tree/main/blenderWork/blenderImages)
+### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/blob/main/Blender.md)
 
 
 <img src="Crow.png" width="150" height="125">
@@ -23,7 +23,7 @@
 
 
 
-### My Unity Work
+### My Unity Work 
  ## Unity Script for Simple Camera Movement on X Z axis for a 2.5D game
 ```markdown
 
