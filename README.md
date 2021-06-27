@@ -1,7 +1,7 @@
 ## Welcome to Adil khan Portfolio
 
 
-### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/blob/main/Blender.md)
+### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/Blender.md)
 
 
 <img src="Crow.png" width="150" height="125">
