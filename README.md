@@ -2,7 +2,7 @@
 
 
 ### My Blender Work [More Works Inside!](https://github.com/adilblender/Portfolio/Blender.md)
-![Screenshot_1625232488](https://user-images.githubusercontent.com/75626508/124281690-97cf6d00-db67-11eb-96d9-998090c92dba.png)
+
 
 
 <img src="Crow.png" width="150" height="125">
@@ -25,6 +25,7 @@
 ### Android Project
  
  [Simple App for Studio] (https://github.com/adilblender/GamerGageStudio)
+ ![Screenshot_1625232488](https://user-images.githubusercontent.com/75626508/124281690-97cf6d00-db67-11eb-96d9-998090c92dba.png)
 
 ### My Unity Work [Unity Work] (https://github.com/adilblender/Portfolio/blob/main/Unity.html)
  ## Unity Script for Simple Camera Movement on X Z axis for a 2.5D game
