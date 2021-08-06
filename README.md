@@ -28,6 +28,8 @@
  ![Screenshot_1625232488](https://user-images.githubusercontent.com/75626508/124281690-97cf6d00-db67-11eb-96d9-998090c92dba.png width="150" height="125")
 
 ### My Unity Work [Unity Work] (https://github.com/adilblender/Portfolio/blob/main/Unity.html)
+
+{% include youtubePlayer.html id=page.youtubeId %}
  ## Unity Script for Simple Camera Movement on X Z axis for a 2.5D game
 ```markdown
 
